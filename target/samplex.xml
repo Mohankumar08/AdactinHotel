@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="10" time="390.38146">
+<testcase classname="Generating 10 order id from adactin hotel page" name="Generating order id" time="31.289426">
+<system-out><![CDATA[Given user is on adactin application on chrome browser......................passed
+When user enter "mohankumar08" and "Mohan@123"..............................passed
+And user should click login button..........................................passed
+When user select "Sydney", "Hotel Sunshine", "Deluxe", "1", "13/05/2022", "15/05/2022", "2" and "1".passed
+And user should click search button.........................................passed
+When user select hotel and click continue for booking.......................passed
+When user enter "Mohan", "Kumar", "Chennai,Tamilnadu", "4563984512988765",  "VISA", "8", "2022", "240".passed
+And user click on continue for generating order id..........................passed
+And user print order id into console........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Generating 10 order id from adactin hotel page" name="Generating order id 2" time="20.950464">
+<system-out><![CDATA[Given user is on adactin application on chrome browser......................passed
+When user enter "mohankumar08" and "Mohan@123"..............................passed
+And user should click login button..........................................passed
+When user select "Melbourne", "Hotel Creek", "Super Deluxe", "2", "10/05/2022", "12/05/2022", "2" and "1".passed
+And user should click search button.........................................passed
+When user select hotel and click continue for booking.......................passed
+When user enter "Mohan", "Kumar", "Chennai,Tamilnadu", "4563984512988765",  "VISA", "8", "2022", "240".passed
+And user click on continue for generating order id..........................passed
+And user print order id into console........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Generating 10 order id from adactin hotel page" name="Generating order id 3" time="38.090514">
+<system-out><![CDATA[Given user is on adactin application on chrome browser......................passed
+When user enter "mohankumar08" and "Mohan@123"..............................passed
+And user should click login button..........................................passed
+When user select "Brisbane", "Hotel Hervey", "Double", "3", "21/05/2022", "28/05/2022", "4" and "1".passed
+And user should click search button.........................................passed
+When user select hotel and click continue for booking.......................passed
+When user enter "Mohan", "Kumar", "Chennai,Tamilnadu", "4563984512988765",  "VISA", "8", "2022", "240".passed
+And user click on continue for generating order id..........................passed
+And user print order id into console........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Generating 10 order id from adactin hotel page" name="Generating order id 4" time="30.033599">
+<system-out><![CDATA[Given user is on adactin application on chrome browser......................passed
+When user enter "mohankumar08" and "Mohan@123"..............................passed
+And user should click login button..........................................passed
+When user select "New York", "Hotel Cornice", "Deluxe", "4", "08/05/2022", "12/05/2022", "3" and "1".passed
+And user should click search button.........................................passed
+When user select hotel and click continue for booking.......................passed
+When user enter "Mohan", "Kumar", "Chennai,Tamilnadu", "4563984512988765",  "VISA", "8", "2022", "240".passed
+And user click on continue for generating order id..........................passed
+And user print order id into console........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Generating 10 order id from adactin hotel page" name="Generating order id 5" time="37.290554">
+<system-out><![CDATA[Given user is on adactin application on chrome browser......................passed
+When user enter "mohankumar08" and "Mohan@123"..............................passed
+And user should click login button..........................................passed
+When user select "Paris", "Hotel Creek", "Standard", "2", "18/05/2022", "25/05/2022", "4" and "1".passed
+And user should click search button.........................................passed
+When user select hotel and click continue for booking.......................passed
+When user enter "Mohan", "Kumar", "Chennai,Tamilnadu", "4563984512988765",  "VISA", "8", "2022", "240".passed
+And user click on continue for generating order id..........................passed
+And user print order id into console........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Generating 10 order id from adactin hotel page" name="Generating order id 6" time="29.937953">
+<system-out><![CDATA[Given user is on adactin application on chrome browser......................passed
+When user enter "mohankumar08" and "Mohan@123"..............................passed
+And user should click login button..........................................passed
+When user select "Sydney", "Hotel Hervey", "Double", "5", "12/05/2022", "18/05/2022", "1" and "1".passed
+And user should click search button.........................................passed
+When user select hotel and click continue for booking.......................passed
+When user enter "Mohan", "Kumar", "Chennai,Tamilnadu", "4563984512988765",  "VISA", "8", "2022", "240".passed
+And user click on continue for generating order id..........................passed
+And user print order id into console........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Generating 10 order id from adactin hotel page" name="Generating order id 7" time="78.5342">
+<system-out><![CDATA[Given user is on adactin application on chrome browser......................passed
+When user enter "mohankumar08" and "Mohan@123"..............................passed
+And user should click login button..........................................passed
+When user select "Melbourne", "Hotel Sunshine", "Super Deluxe", "3", "26/05/2022", "28/05/2022", "4" and "1".passed
+And user should click search button.........................................passed
+When user select hotel and click continue for booking.......................passed
+When user enter "Mohan", "Kumar", "Chennai,Tamilnadu", "4563984512988765",  "VISA", "8", "2022", "240".passed
+And user click on continue for generating order id..........................passed
+And user print order id into console........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Generating 10 order id from adactin hotel page" name="Generating order id 8" time="39.816145">
+<system-out><![CDATA[Given user is on adactin application on chrome browser......................passed
+When user enter "mohankumar08" and "Mohan@123"..............................passed
+And user should click login button..........................................passed
+When user select "Brisbane", "Hotel Creek", "Standard", "6", "08/05/2022", "12/05/2022", "3" and "1".passed
+And user should click search button.........................................passed
+When user select hotel and click continue for booking.......................passed
+When user enter "Mohan", "Kumar", "Chennai,Tamilnadu", "4563984512988765",  "VISA", "8", "2022", "240".passed
+And user click on continue for generating order id..........................passed
+And user print order id into console........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Generating 10 order id from adactin hotel page" name="Generating order id 9" time="41.45344">
+<system-out><![CDATA[Given user is on adactin application on chrome browser......................passed
+When user enter "mohankumar08" and "Mohan@123"..............................passed
+And user should click login button..........................................passed
+When user select "New York", "Hotel Hervey", "Super Deluxe", "2", "18/05/2022", "20/05/2022", "2" and "1".passed
+And user should click search button.........................................passed
+When user select hotel and click continue for booking.......................passed
+When user enter "Mohan", "Kumar", "Chennai,Tamilnadu", "4563984512988765",  "VISA", "8", "2022", "240".passed
+And user click on continue for generating order id..........................passed
+And user print order id into console........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Generating 10 order id from adactin hotel page" name="Generating order id 10" time="42.985165">
+<system-out><![CDATA[Given user is on adactin application on chrome browser......................passed
+When user enter "mohankumar08" and "Mohan@123"..............................passed
+And user should click login button..........................................passed
+When user select "Paris", "Hotel Creek", "Double", "1", "21/05/2022", "24/05/2022", "4" and "1".passed
+And user should click search button.........................................passed
+When user select hotel and click continue for booking.......................passed
+When user enter "Mohan", "Kumar", "Chennai,Tamilnadu", "4563984512988765",  "VISA", "8", "2022", "240".passed
+And user click on continue for generating order id..........................passed
+And user print order id into console........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
